@@ -35,6 +35,10 @@
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
       "value": ""
     },
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "Isi id grup pribadi anda dengan membuat grup masukkan bot rose ketik /id.",
+      "value": ""
+    },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
       "value": ".",
