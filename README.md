@@ -5,5 +5,6 @@
 
 ## [ILHAM MANSIZ](https://t.me/diemmmmmmmmmm)
 
-## GRUP SUPPORT KLIK GAMBAR
-![LOGO](https://telegra.ph/file/248b1f9a8404ee12b82ef.jpg)(https://t.me/TEAMSquadUserbotSupport)
+## GRUP SUPPORT 
+![LOGO](https://telegra.ph/file/248b1f9a8404ee12b82ef.jpg)
+## [SUPPORT](https://t.me/TEAMSquadUserbotSupport)
