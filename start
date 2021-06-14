@@ -57,7 +57,7 @@ _run_catpack_git() {
 import sys
 
 OFFICIAL_UPSTREAM_REPO = "https://github.com/IlhamMansiz/PandaPack"
-ACTIVE_BRANCH_NAME = "master"
+ACTIVE_BRANCH_NAME = "PandaUserbot"
 
 repo = Repo.init()
 origin = repo.create_remote("temponame", OFFICIAL_UPSTREAM_REPO)
@@ -66,7 +66,7 @@ repo.create_head(ACTIVE_BRANCH_NAME, origin.refs[ACTIVE_BRANCH_NAME])
 repo.heads[ACTIVE_BRANCH_NAME].checkout(True) ')
 }
 
-_run_cat_git() {
+_run_panda_git() {
     local repolink=$(_get_repolink)
     $(_run_python_code 'from git import Repo
 import sys
