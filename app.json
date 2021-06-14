@@ -71,7 +71,7 @@
       "required": false
      },
 
-    "UPSTREAM_REPO": {
+    "UPSTREAM_REPO_BRANCH": {
       "description": "Branch untuk .update now nanti",
       "value": "PandaUserbot",
       "required": false
