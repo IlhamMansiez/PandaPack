@@ -69,6 +69,12 @@
       "description": "Use either Panda .if you need custom deploy then type your git repo link",
       "value": "panda",
       "required": false
+     },
+
+    "UPSTREAM_REPO": {
+      "description": "Branch untuk .update now nanti",
+      "value": "PandaUserbot",
+      "required": false
     }
   },
   "addons": [{
