@@ -7,11 +7,7 @@ _get_ziplink () {
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2lsaGFtbWFuc2l6L1BhbmRhVXNlcmJvdC9hcmNoaXZlL1BhbmRhVXNlcmJvdC56aXA==" | base64 -d
     elif [[ $UPSTREAM_REPO == "panda" ]]
-    then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL2lsaGFtbWFuc2l6L1BhbmRhVXNlcmJvdC9hcmNoaXZlL1BhbmRhVXNlcmJvdC56aXA=" | base64 -d
-    elif [[ $UPSTREAM_REPO == "panda" ]]
-    then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL2lsaGFtbWFuc2l6L1BhbmRhVXNlcmJvdC9hcmNoaXZlL1BhbmRhVXNlcmJvdC56aXA==" | base64 -d
+    then  
     elif [[ $UPSTREAM_REPO =~ $regex ]]
     then
         if [[ $UPSTREAM_REPO_BRANCH ]]
@@ -30,12 +26,6 @@ _get_repolink () {
     local rlink
     regex='(https?)://github.com/.+/.+'
     if [[ $UPSTREAM_REPO == "panda" ]]
-    then
-        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL2lsaGFtbWFuc2l6L1BhbmRhVXNlcmJvdA" | base64 -d`
-    elif [[ $UPSTREAM_REPO == "panda" ]]
-    then
-        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL2lsaGFtbWFuc2l6L1BhbmRhVXNlcmJvdA==" | base64 -d`
-    elif [[ $UPSTREAM_REPO == "panda" ]]
     then
         rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL2lsaGFtbWFuc2l6L1BhbmRhVXNlcmJvdA" | base64 -d`
     elif [[ $UPSTREAM_REPO =~ $regex ]]
