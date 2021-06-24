@@ -57,6 +57,9 @@ telegraph
 Telethon
 pytgcalls
 tgcrypto
+pyrogram
+wheel
+ffmpeg-python
 TgCrypto
 tswift
 ujson
