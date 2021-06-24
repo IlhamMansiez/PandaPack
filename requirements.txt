@@ -71,3 +71,6 @@ wget
 wikipedia
 youtube-search-python
 youtube_dl
+py-Ultroid==2021.6.18.1
+Shazamio
+https://github.com/New-dev0/Telethon/archive/BETTER.zip
