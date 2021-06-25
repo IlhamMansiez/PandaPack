@@ -4,6 +4,9 @@ aiohttp[speedups]
 cloudscraper
 colour
 covid
+UsergeAntiSpamApi==0.1.7
+motor
+bs4
 cowpy
 dataclasses
 DateTime
