@@ -61,7 +61,6 @@ telegraph
 Telethon
 pytgcalls
 tgcrypto
-pyrogram
 pyrogram==1.2.9
 wheel
 ffmpeg-python
