@@ -24,7 +24,10 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Ambil string digrup",
+      "description": "Ambil string session TELETHON KETIKA MENGAMBIL KETIK T JANGAN P",
+    },
+    "PROGRAM_SESSION": {
+      "description": "AMBIL STRING SESSION PROGRAM KETIKA MENGAMBIL KETIK P JANGAN T",
       "value": ""
     },
     "TG_BOT_USERNAME": {
