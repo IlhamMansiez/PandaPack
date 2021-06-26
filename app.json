@@ -26,10 +26,6 @@
     "STRING_SESSION": {
       "description": "Ambil string session TELETHON KETIKA MENGAMBIL KETIK T JANGAN P",
     },
-    "PROGRAM_SESSION": {
-      "description": "AMBIL STRING SESSION PROGRAM KETIKA MENGAMBIL KETIK P JANGAN T",
-      "value": ""
-    },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
       "value": ""
@@ -43,6 +39,10 @@
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
       "value": ".",
       "required": false
+    },
+    "PROGRAM_SESSION": {
+      "description": "AMBIL STRING SESSION PROGRAM KETIKA MENGAMBIL KETIK P JANGAN T",
+      "value": ""
     },
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
