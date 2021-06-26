@@ -99,7 +99,7 @@ _set_bot () {
      🐼
     "
     python3 -m Panda
-    python3 main.py
+    python3 -m main.py
 }
 
 _set_bot
