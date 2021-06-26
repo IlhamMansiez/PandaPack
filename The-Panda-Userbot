@@ -98,7 +98,7 @@ _set_bot () {
      🐼          🐼           🐼   🐼       🐼 🐼     🐼 🐼     🐼              🐼
      🐼
     "
-    telethon: python3 -m Panda
+    telethon: python3 -m PandaUserbot
     pyrogram: python3 -m PandaUserbot
 }
 
