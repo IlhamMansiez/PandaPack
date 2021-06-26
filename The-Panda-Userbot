@@ -99,7 +99,6 @@ _set_bot () {
      🐼
     "
     python3 -m Panda
-    python3 -m PandaUserbot
 }
 
 _set_bot
