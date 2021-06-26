@@ -28,8 +28,7 @@
     },
     "PROGRAM_SESSION": {
       "description": "AMBIL STRING SESSION PROGRAM KETIKA MENGAMBIL KETIK P JANGAN T",
-      "value": "",
-      "required": true
+      "value": ""
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
